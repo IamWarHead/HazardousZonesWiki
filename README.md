@@ -3,4 +3,4 @@
 
 Hazardous Zones mod for Project Zomboid
 
-Check the [wiki](https://github.com/IamWarHead/HazardousZonesWiki/wiki)https://github.com/IamWarHead/HazardousZonesWiki/wiki for more information.
+Check the [wiki](https://github.com/IamWarHead/HazardousZonesWiki/wiki) for more information.
